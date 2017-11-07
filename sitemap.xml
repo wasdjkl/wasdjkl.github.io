@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.wasdjkl.com/post/first/</loc>
+    <lastmod>2017-11-07T10:03:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/post/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2017-10-29T21:39:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/post/hello-world/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/post/</loc>
+    <lastmod>2017-11-07T10:03:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wasdjkl.com/</loc>
+    <lastmod>2017-11-07T10:03:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

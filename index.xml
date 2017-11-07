@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知者无涯</title>
+    <link>https://www.wasdjkl.com/</link>
+    <description>Recent content on 知者无涯</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Nov 2017 10:03:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.wasdjkl.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://www.wasdjkl.com/post/first/</link>
+      <pubDate>Tue, 07 Nov 2017 10:03:17 +0800</pubDate>
+      
+      <guid>https://www.wasdjkl.com/post/first/</guid>
+      <description>###a</description>
+    </item>
+    
+    <item>
+      <title>新的开始</title>
+      <link>https://www.wasdjkl.com/post/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Sun, 29 Oct 2017 21:39:02 +0000</pubDate>
+      
+      <guid>https://www.wasdjkl.com/post/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</guid>
+      <description> 不写博客已经好几年了，最近看了几篇前辈的文章自己也手痒想写点什么，框架初步定为Hexo,搭建在GitHub上，用Cloudflare 做CDN用MarkDown来写文章。
+基本环境 Node.js
+安装Hexo 安装Hexo $ npm install -g hexo-cli  创建博客 初始化博客 $ hexo init Wasdjkl  进入文件夹 $ cd Wasdjkl  安装依赖包 $ npm install  配置博客 编辑配置文件 _config.yml 语言及时区填写规范
+# Site title: 知者无涯 subtitle: Wasdjkl description: 微微风簇浪，散作满河星。 author: Wasdjkl language: zh timezone: Asia/Shanghai # URL url: http://www.wasdjkl.com  生成博客 $ hexo generate  开启服务 $ hexo server  </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.wasdjkl.com/post/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.wasdjkl.com/post/hello-world/</guid>
+      <description>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick Start Create a new post $ hexo new &amp;quot;My New Post&amp;quot;  More info: Writing
+Run server $ hexo server  More info: Server
+Generate static files $ hexo generate  More info: Generating</description>
+    </item>
+    
+  </channel>
+</rss>
