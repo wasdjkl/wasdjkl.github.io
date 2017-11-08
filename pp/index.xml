@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pps on 知者无涯</title>
+    <link>https://www.wasdjkl.com/pp/</link>
+    <description>Recent content in Pps on 知者无涯</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Nov 2017 10:03:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.wasdjkl.com/pp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First2</title>
+      <link>https://www.wasdjkl.com/pp/first2/</link>
+      <pubDate>Tue, 07 Nov 2017 10:03:17 +0800</pubDate>
+      
+      <guid>https://www.wasdjkl.com/pp/first2/</guid>
+      <description>##a</description>
+    </item>
+    
+  </channel>
+</rss>
